@@ -5,7 +5,7 @@
 }
 
 /* debug for bootstrap class */
-[class^='container'] {
+/* [class^='container'] {
     border: 1px dashed black;
     background-color: lightblue;
     min-height: 80vh;
@@ -19,7 +19,7 @@
     border: 1px solid grey;
     background-color: aqua;
     /* height: 100px; */
-}
+} */
 
 /********************************************************
                     MOBILE FIRST
